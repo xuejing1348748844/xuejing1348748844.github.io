@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>细数惭愧的博客</title>
   
-  <subtitle>别偷懒啦！快来写Python！</subtitle>
+  <subtitle>Python笔记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/xuejing1348748844/xuejing1348748844.github.io.git/"/>
