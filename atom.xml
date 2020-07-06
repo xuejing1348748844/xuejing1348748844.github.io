@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>细数惭愧的博客</title>
+  
+  <subtitle>别偷懒啦！快来写Python！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/xuejing1348748844/xuejing1348748844.github.io.git/"/>
+  <updated>2020-07-05T15:54:53.579Z</updated>
+  <id>https://github.com/xuejing1348748844/xuejing1348748844.github.io.git/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python学习开始了</title>
+    <link href="https://github.com/xuejing1348748844/xuejing1348748844.github.io.git/2020/07/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://github.com/xuejing1348748844/xuejing1348748844.github.io.git/2020/07/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2020-07-05T15:39:45.000Z</published>
+    <updated>2020-07-05T15:54:53.579Z</updated>
+    
+    <content type="html"><![CDATA[<p>Python学习开始了！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Python学习开始了！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
